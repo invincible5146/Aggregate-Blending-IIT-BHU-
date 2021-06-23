@@ -1,0 +1,2 @@
+# Aggregate-Blending-IIT-BHU-
+Developed a Python based program for blending of aggregate for up to six stockpiles .The aim of project was to provide all possible solution to the user for given gradation limit for all the sieves along with providing the solution near to mid-point gradation and finding the solution which is of minimum cost to the user and created a web application for the same using HTML,CSS, ReactJs.
